@@ -1,4 +1,4 @@
-name: tf1.0
+name: White-box-Cartoonization
 channels:
   - defaults
 dependencies:
@@ -67,4 +67,4 @@ dependencies:
     - proglog==0.1.9
     - requests==2.25.1
     - urllib3==1.26.5
-prefix: C:\Users\XXX\miniconda3\envs\tf1.0
+prefix: D:\CS\Anaconda3\envs\White-box-Cartoonization
