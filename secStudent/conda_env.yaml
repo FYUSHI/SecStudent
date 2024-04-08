@@ -79,4 +79,4 @@ dependencies:
     - six==1.16.0
     - tifffile==2021.4.8
     - urllib3==1.26.5
-prefix: C:\Users\XXX\miniconda3\envs\secgan-master
+prefix: D:\CS\Anaconda3\envs\secgan-master
